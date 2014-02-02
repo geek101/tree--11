@@ -1,0 +1,12 @@
+15 2 25 fifteen
+2 2 2 second
+2 second-left
+2 second-right
+3 4 5  three-left
+25 3 3 twenty-five
+3 6 7  three-right
+4 four
+5 five
+6 six
+7 seven
+
